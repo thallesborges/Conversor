@@ -5,7 +5,6 @@ import customtkinter as ctk
 # Conexão com a API
 cotacoes = requests.get("https://economia.awesomeapi.com.br/last/BRL-USD,BRL-EUR")
 cotacoes = cotacoes.json()
-print(cotacoes)
 
 cotacao_dolar = float(cotacoes['BRLUSD']['bid'])
 cotacao_euro = float(cotacoes['BRLEUR']['bid'])
