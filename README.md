@@ -79,7 +79,8 @@ Conversor/
 
 ## 📜 Licença
 
-Este projeto é de uso livre para estudos e modificações. Caso utilize, mantenha os créditos ao autor.
+Este projeto é de uso livre para estudos e modificações. 
+Desenvolvido por Thalles Borges.
 
 ---
 
