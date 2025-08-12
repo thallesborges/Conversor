@@ -43,7 +43,7 @@ O usuário informa um valor em **Reais (BRL)** e o programa exibe o valor conver
 
 3. **Instale as dependências**
    ```bash
-   pip install requests customtkinter
+   pip install -r requirements.txt
    ```
 
 ---
